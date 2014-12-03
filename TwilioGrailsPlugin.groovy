@@ -1,6 +1,6 @@
 class TwilioGrailsPlugin {
-    def version = "0.1e"
-    def grailsVersion = "1.3.3 > *"
+    def version = "0.2-SNAPSHOT"
+    def grailsVersion = "2.3 > *"
 
     def author = "Ryan Norris"
     def authorEmail = ""

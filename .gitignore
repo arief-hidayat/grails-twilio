@@ -1,3 +1,12 @@
 /.link_to_grails_plugins
 /target
 /target-eclipse
+.idea/
+*.iml
+
+
+/web-app/css/
+/web-app/images/
+/web-app/js/application.js
+/out/
+/grails-app/i18n/
